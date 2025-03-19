@@ -2,4 +2,4 @@
 
 Olá, professor.
 
-A atividade se encontra na branch Master;
+A atividade se encontra na branch Master.
